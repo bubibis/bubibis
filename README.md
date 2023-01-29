@@ -1,3 +1,4 @@
+<img align="center" height="200" src="./assets/banner.png">
 <img align="right" width="250" height="250" src="./assets/profile.jfif">
 
 # Hello! My name is Beatriz Carvalho!
