@@ -1,4 +1,4 @@
-<img align="center" src="./assets/banner.png">
+
 
 <h1 align="center">hi! the name's beatriz carvalho! </h1>
 
